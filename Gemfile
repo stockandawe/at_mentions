@@ -43,6 +43,8 @@ group :development, :test do
   gem 'spring'
 end
 
+gem 'jquery-atwho-rails'
+
 source 'https://rails-assets.org' do
   gem 'rails-assets-bootstrap'
 end
